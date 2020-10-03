@@ -1,10 +1,9 @@
-<div align=center>
+### 👨‍💻 About Me
+남들에게 긍정적인 영향을 끼치고 싶은 **백엔드 개발자, Devops 엔지니어**입니다!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
-</div>
+<div>
   
-<div align=center>
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/helpful_dev/)](https://www.instagram.com/helpful_dev/) 
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elgoog1011@gmail.com)](mailto:elgoog1011@gmail.com)
+  [![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://www.notion.so/jaeseongdev/Jaeseong-Park-07ebffdf36414604a7fb8a4cca6a08ed)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/helpful_dev/)](https://www.instagram.com/helpful_dev/)
+
 </div>

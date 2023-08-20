@@ -9,7 +9,7 @@
 
 <div>
 
-  [![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://jscode.notion.site/Jaeseong-Park-JSCODE-e0ff52eec5a74ef1ac6436c2c9943d68)
+  [![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://jscode.notion.site/JSCODE-a1336a6878fd4f9aa5c1520e90c3476d?pvs=4)
   [![Youtbue Badge](https://img.shields.io/badge/-youtube-red)](https://www.youtube.com/@jscode-official)
 
 </div>
